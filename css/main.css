@@ -1,0 +1,55 @@
+
+ /*header y menu*/
+header ul{
+	float: right;
+}
+header li{
+	float: left;
+	display: inline-block;
+	margin-left: 2em;
+	margin-top: 1em;
+}
+.inline{
+	display: inline-block;
+}
+
+/*fuentes colores y tamaños*/
+.text-gray{
+	color: #8F8E8E;
+}
+.text-white{
+	color: white;
+}
+.fshead{
+	font-size: 4em;
+}
+.fs10{
+	font-size: .8em;
+}
+/*...........*/
+/*margenes y paddings*/
+.mt-5{
+	margin-top: 5%;
+}
+.mb-5{
+	margin-bottom: 5%;
+}
+.mr-10{
+	margin-right: 10%;
+}
+.pt-1{
+	padding-top: 1%;
+}
+
+/*.............*/
+.gris{
+	background-color: #929292;
+}
+.br-none{
+	border-radius: 0px !important;
+}
+.box{
+	
+	background-color: #ADA9A9 !important;
+	border:none !important;
+}
